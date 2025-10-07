@@ -4,6 +4,6 @@ The assignment consisted of two parts:
 1. Data visualisation in Excel by creating Pivot Charts
 2. Data visualisation in Looker Studio.
 
-The instructions for work in Excel are uploaded in the Task List tab and the instructions for LOoker Studio are provided in the Looker_studio_instructions.txt file.
+The instructions for work in Excel are uploaded in the Task List tab and the instructions for Looker Studio are provided in the Looker_studio_instructions.txt file.
 
 Looker studio is a new tool for me and I enjoyed the learning process, even though I admit that the formatting of the visuals could be improved (however, I followed the course instructions).
