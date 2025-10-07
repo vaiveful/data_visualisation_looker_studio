@@ -6,4 +6,4 @@ The assignment consisted of two parts:
 
 The instructions for work in Excel are uploaded in the Task List tab and the instructions for Looker Studio are provided in the Looker_studio_instructions.txt file.
 
-Looker studio is a new tool for me and I enjoyed the learning process, even though I admit that the formatting of the visuals could be improved (however, I followed the course instructions).
+Looker Studio is a new tool for me and I enjoyed learning it. I believe that formatting of the visuals for both parts of the assignment could be improved, however I followed the course instructions.
