@@ -1,4 +1,4 @@
-This repository includes files for the Module 3 Assignment of IBM Data Analyst course on Coursera.
+This repository includes output files for the Module 3 Assignment of IBM Data Analyst course on Coursera.
 
 The assignment consisted of two parts:
 1. Data visualisation in Excel by creating Pivot Charts.
